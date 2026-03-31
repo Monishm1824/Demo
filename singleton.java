@@ -6,6 +6,7 @@ class A
 	//step 1 : make the constructor private
 	private PrimeMinister()
 	{
+		System.out.print("hello wordl");
 		
 	}
 	//step 2 : create one static method return type will be classtype
